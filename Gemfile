@@ -10,8 +10,4 @@ else
   gem 'rails_test_params_backport', group: :test
 end
 
-gem 'pg'
-gem 'sqlite3'
-gem 'mysql2'
-
 gemspec
